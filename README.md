@@ -83,6 +83,18 @@ Maps
 To be added on completion.
 
 
+## References
+ 
+Boeing, G. (2017). OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks. *Computers, Environment and Urban Systems*, 65, 126–139. https://doi.org/10.1016/j.compenvurbsys.2017.05.004
+ 
+Lucas, K. (2012). Transport and social exclusion: Where are we now? *Transport Policy*, 20, 105–113. https://doi.org/10.1016/j.tranpol.2012.01.013
+ 
+Ferster, C., Fischer, J., Manaugh, K., Nelson, T., & Winters, M. (2020). Using OpenStreetMap to inventory bicycle infrastructure: A comparison with open data from cities. *International Journal of Sustainable Transportation*, 14(1), 64–73. https://doi.org/10.1080/15568318.2018.1519746
+ 
+Department for Transport (2023). *Transport Analysis Guidance: WebTAG Unit A1.3 — User and Provider Impacts*. UK Government. https://www.gov.uk/guidance/transport-analysis-guidance-webtag
+ 
+Mayor of London (2018). *Mayor's Transport Strategy*. Transport for London.
+ 
 
 
 
